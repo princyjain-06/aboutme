@@ -1,4 +1,3 @@
-# aboutme
 # 💫 About Me:
 I'm Princy Badjatya currently in my 3rd year of Engineering in the field of <br>Computer science specializing in Artificial Intelligence. I'm an enthusiast <br>developer and I've developed several projects using high level language like <br>java and python and their frameworks like spring, spring boot and Django. <br>Currently I'm grabbing my hands on DSA along with the placement <br>preparations. Apart from this, I'm actively looking for Internships that<br>match my tech stack and help me gain real life experience in the <br>corporate world.  
 
